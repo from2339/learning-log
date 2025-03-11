@@ -1,3 +1,6 @@
 [submodule "git-basic-kadai"]
 	path = git-basic-kadai
 	url = https://github.com/from2339/git-basic-kadai.git
+[submodule "learning-logs/git-github/git-basic-kadai"]
+	path = learning-logs/git-github/git-basic-kadai
+	url = https://github.com/from2339/git-basic-kadai
