@@ -1,1 +1,9 @@
+# VS Codeの設定ファイル
+.vscode/
+
+# Pythonのキャッシュファイル
+*.pyc
+
+# macOSの隠しファイル
 .DS_Store
+
