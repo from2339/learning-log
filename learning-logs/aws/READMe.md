@@ -266,7 +266,9 @@ PingTの模擬試験問題の解説を基に、サービスの深掘り。
 知識の振り返りが甘いのでアクティブリコールをする時間をしっかり作る。  
 
 ### 2029年1月27日  
-![AWS SAA合格！！！](learning-logs/aws/images/awssaa.jpg)  
+AWS SAA合格！！！  
+
+![AWS SAA 試験結果](learning-logs/aws/images/awssaa.jpg)  
 
 
 
