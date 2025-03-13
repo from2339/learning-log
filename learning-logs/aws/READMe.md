@@ -268,7 +268,7 @@ PingTの模擬試験問題の解説を基に、サービスの深掘り。
 ### 2029年1月27日  
 AWS SAA合格！！！  
 
-![AWS SAA 試験結果](/learning-log/learning-logs/aws/images/awssaa.jpg)  
+![AWS SAA 試験結果](images/awssaa.jpg)  
 
 
 
